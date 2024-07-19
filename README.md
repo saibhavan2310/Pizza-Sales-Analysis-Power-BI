@@ -53,7 +53,7 @@ Documentation: Detailed documentation on the project workflow, including require
 To explore the analysis and dashboard:
 
 Clone the Repository:
-git clone [https://github.com/saibhavan2310/pizza-sales-analysis.git]
+git clone [[https://github.com/saibhavan2310/pizza-sales-analysis.git]](https://github.com/saibhavan2310/Pizza-Sales-Analysis-SQL-Power-BI)
 
 SQL Analysis:
 Navigate to the sql folder and review the SQL scripts used for data analysis.
