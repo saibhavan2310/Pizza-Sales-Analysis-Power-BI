@@ -1,4 +1,5 @@
-🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
+
 This repository contains a comprehensive analysis of pizza sales, including requirements gathering, data analysis using SQL, and a detailed dashboard created in Power BI to visualize and understand sales trends and insights.
 
 📋 Project Overview
